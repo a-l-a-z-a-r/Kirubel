@@ -1,0 +1,63 @@
+
+
+body{
+
+	margin: 0;
+	padding: 0;
+}
+img {
+ image-rendering: optimizeQuality; 
+ image-position: center;
+ background-color: black; 
+
+}
+h1{
+color: white ;
+text-align:center;
+font-family: cursive;
+
+
+
+}
+
+.hu {
+
+    height: 100vh;
+    width: 100%;
+	background-image: url(phoenix.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position:center;
+	background-repeat: no-repeat;
+
+}
+.eeet {
+   height: 100vh;
+    width: 100%;
+	background-image: url(rosseua.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position:center;
+	background-repeat: no-repeat;
+	font-family: cursive;
+	color: white;
+}
+
+
+li {
+
+	size: 40000%;
+	font-family: all;
+	text-align: left;
+	color: white;
+}
+.jo {
+   height: 100vh;
+    width: 100%;
+	background-image: url(giphy.gif);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
